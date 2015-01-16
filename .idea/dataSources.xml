@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" hash="28985589">
+    <data-source source="LOCAL" name="Rails jaivik: development" uuid="864d9572-5ce1-416c-a445-481927c8e3ed">
+      <driver-ref>postgresql</driver-ref>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://127.0.0.1/jaivik_dev</jdbc-url>
+      <user-name>jaivik_dev</user-name>
+      <user-password>dfc0dfcbdfc3dfdcdfc3dfc1dff5dfcedfcfdfdc</user-password>
+      <libraries />
+    </data-source>
+    <data-source source="LOCAL" name="Rails jaivik: test" uuid="14eb770d-0e61-4a77-8169-858f712b543a">
+      <driver-ref>postgresql</driver-ref>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://127.0.0.1/jaivik_test</jdbc-url>
+      <user-name>jaivik_test</user-name>
+      <user-password>dfc0dfcbdfc3dfdcdfc3dfc1dff5dfdedfcfdfd9dfde</user-password>
+      <libraries />
+    </data-source>
+  </component>
+</project>
+
